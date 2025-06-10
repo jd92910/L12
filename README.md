@@ -24,7 +24,7 @@ Przejdź pod adres:
 Zaloguj się danymi:
 - **host**: `mysql`
 - **user**: `root`
-- **password**: `rootpass`
+- **password**: `makaron`
 
 Po zalogowaniu utwórz bazę danych `testowa`.
 
